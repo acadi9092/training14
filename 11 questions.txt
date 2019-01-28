@@ -1,0 +1,4 @@
+7. $ dmesg | grep -i ethernet
+   sudo lshw -C network
+8. /proc/scsi/scsi 
+
